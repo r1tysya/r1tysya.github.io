@@ -34,6 +34,7 @@ body{
   transition: 0.2s;
   color: transparent;   
 	background-clip: text;
+  -webkit-background-clip: text;
 	background-image: linear-gradient(to right, #5c94b9, #9cc093);
 }
 
@@ -252,6 +253,7 @@ body{
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: transparent;   
 	background-clip: text;
+  -webkit-background-clip: text;
 	background-image: linear-gradient(to right, #5c94b9, #9cc093);
 }
 
